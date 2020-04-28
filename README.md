@@ -7,7 +7,7 @@
 `Paper` contains the final write up with methods and results used for this project
 
 #### Purpose
-The purpose of the study is to interpret the drivers and consequences of right-wing violence due to the rise of xenophobic attacks against refugees in Germany. The number of refugees seeking asylum in Germany, as well as the number of xenophobic attacks against refugees has been on the rise. There is a need for systematic data collection and data processing in order to examine a broad range of research questions regarding xenophobic extremism in Germany. 
+The purpose of the study is to use visualization techniques to interpret the drivers and consequences of right-wing violence due to the rise of xenophobic attacks against refugees in Germany. The number of refugees seeking asylum in Germany, as well as the number of xenophobic attacks against refugees has been on the rise. There is a need for systematic data collection and data processing in order to examine a broad range of research questions regarding xenophobic extremism in Germany. 
 
 This dataset categorizes four types of right-wing political violence and social unrest, and shows us the frequency, geographic location, and time of these events.	
 
