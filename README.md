@@ -18,4 +18,25 @@ This dataset categorizes four types of right-wing political violence and social 
 
 3. Is there a correlation between the type and time/date of attack, such as events that precede or follow the attack? 
 
+#### An illustration of the type of attacks by location in Germany (2014-2017)
+
+![Attacks in Germany](graphs/Rplot.png)
+
+
+More visualizations can be seen in the code.R file.
+
+#### Results
+
+The results have a potential social impact on the political climate in Germany. The results
+from our analyses inform us about the frequency of attacks based on the time of year. Elections
+in Germany are held at certain times, so the political climate may shape attitudes towards
+refugees. Depending on the officials elected, their stance on immigration can determine the
+policies in place. Border policies and immigration laws implemented will directly affect
+refugees. The analyses also show us which communities have the highest frequencies of attacks.
+We also know the frequency of attacks in the four most populous German states. Nordrhein-
+Westfalen, one of the four most populous German states, has the highest number of attacks. This
+information can be turned into practice by increasing security measures in these communities
+where the most attacks happen, especially in Nordrhein-Westfalen where there are a lot of
+residents.
+
 
