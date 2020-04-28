@@ -1,5 +1,21 @@
 ## Anti-Refugee Violence in Germany       
 
-The purpose of the study is to interpret the drivers and consequences of right-wing violence due to the rise of xenophobic attacks against refugees in Germany. The number of refugees seeking asylum in Germany, as well as the number of xenophobic attacks against refugees has been on the rise. There is a need for systematic data collection and data processing in order to examine a broad range of research questions regarding xenophobic extremism in Germany. Research questions that we could answer are: What geographic locations within Germany have a high number of attacks against refugees? What are the most frequent types of attacks? When are these attacks happening? We can also uncover correlations or patterns in the data that may lead to a better understanding of this issue. We can ask: Is there a correlation between the type and time/date of attack, such as events that precede or follow the attack? Is there any correlation between the type of attack and the location of attack? 
+`Code` contains code used in this project
 
-Given the rise of the right wing anti-immigration party, the spread of anti-refugee sentiment in German politics, and the increase in attacks against refugees, there is a need for systematic data collection and data processing to understand this social and political phenomenon. This was the underlying motivation for the creation of the ARGIV dataset. This dataset categorizes four types of right-wing political violence and social unrest, and shows us the frequency, geographic location, and time of these events.	
+`Data` contains data used in this project
+
+`Paper` contains the final write up with methods and results used for this project
+
+# Purpose
+The purpose of the study is to interpret the drivers and consequences of right-wing violence due to the rise of xenophobic attacks against refugees in Germany. The number of refugees seeking asylum in Germany, as well as the number of xenophobic attacks against refugees has been on the rise. There is a need for systematic data collection and data processing in order to examine a broad range of research questions regarding xenophobic extremism in Germany. 
+
+This dataset categorizes four types of right-wing political violence and social unrest, and shows us the frequency, geographic location, and time of these events.	
+
+# Research Questions
+1. What geographic locations within Germany have a high number of attacks against refugees?
+
+2. What/when are the most frequent types of attacks? 
+
+3. Is there a correlation between the type and time/date of attack, such as events that precede or follow the attack? 
+
+
